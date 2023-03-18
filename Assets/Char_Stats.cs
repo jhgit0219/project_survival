@@ -24,8 +24,8 @@ Changes:
 
 ------------------------------------------------------------------------*/
 
-[CreateAssetMenu(fileName = "Data", menuName = "ScriptableObjects/Char_Stats", order = 1)]
-public class Char_Stats : ScriptableObject
+
+public class Char_Stats : MonoBehaviour
 {
 
     /* currently unrelevant variables
